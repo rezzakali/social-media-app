@@ -1,0 +1,49 @@
+.postDate {
+  font-size: 15px;
+  margin-left: 10px;
+}
+.postTagText {
+  font-size: 15px;
+  list-style: none;
+}
+.ellipsisIcon {
+  margin-top: -100px;
+}
+.feedSharedImage {
+  width: 100%;
+}
+.feedSharedLikeLoveShareUl {
+  display: flex;
+  align-items: center;
+}
+.feedSharedLikeLoveShareLi {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 20px;
+  font-size: 16px;
+}
+.feedSharedLikeLoveShareLi span {
+  margin-left: 3px;
+}
+
+.thumbIcon {
+  margin-left: -15px;
+  border-radius: 50%;
+  color: blue;
+  cursor: pointer;
+}
+.chatIcon {
+  color: red;
+  border-radius: 50%;
+  font-size: 14px !important;
+  padding: 3px;
+  margin-left: -25px !important;
+}
+.commentsLi {
+  margin-left: auto;
+  list-style: none;
+  margin-right: 10px;
+  font-weight: 300;
+}

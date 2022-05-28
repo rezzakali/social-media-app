@@ -1,0 +1,68 @@
+.loginContainer {
+  background-color: azure;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.loginWrapper {
+  display: flex;
+  width: 70%;
+  height: 70%;
+}
+.loginLeft,
+.loginRight {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.logo {
+  color: blue;
+  font-size: 50px;
+}
+.loginDesc {
+  font-size: 19px;
+}
+.loginBox {
+  border-radius: 2px solid black;
+  height: 300px;
+  background-color: white;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+.loginInput {
+  height: 40px;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 10px;
+  border: 0.5px solid gray;
+}
+.loginInput:focus {
+  outline: none;
+}
+.loginForgat {
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+  color: blue;
+}
+.loginRegisterButton {
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 255, 0.671);
+  color: white;
+  font-size: 18px;
+  border: 0.5px solid gray;
+  height: 55px;
+  cursor: pointer;
+}
+.loginRegisterButton:focus {
+  background-color: blue;
+}

@@ -1,0 +1,33 @@
+.onlineFriendsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+}
+.onlineFriends {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.onlineFriends:hover {
+  cursor: pointer;
+}
+.friendName {
+  margin-left: 10px;
+}
+.onlineFriendsImage {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.rightbarOnline {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #00ff00;
+  margin-left: 19px;
+  top: -5px;
+  border: 2px solid white;
+  position: absolute;
+}
