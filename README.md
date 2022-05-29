@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+
 
 In this project I'm trying to create a social media app using React.js.
+
 ![Screenshot (91)](https://user-images.githubusercontent.com/87976069/170855487-a5f82c78-e9e1-4c85-b6a5-f288c28b5d99.png)
 
 
@@ -46,4 +47,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
