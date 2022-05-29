@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 In this project I'm trying to create a social media app using React.js.
+![Screenshot (91)](https://user-images.githubusercontent.com/87976069/170855487-a5f82c78-e9e1-4c85-b6a5-f288c28b5d99.png)
+
+
+![Screenshot (90)](https://user-images.githubusercontent.com/87976069/170855532-11fc0330-c9de-40c9-ace2-ecdeb0ad518e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -17,8 +21,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
-
-![Screenshot (91)](https://user-images.githubusercontent.com/87976069/170855487-a5f82c78-e9e1-4c85-b6a5-f288c28b5d99.png)
 
 
 Launches the test runner in the interactive watch mode.\
